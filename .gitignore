@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+datasets/
+runs/
+*.pt
+*.onnx
+*.engine
+*_openvino_model/
+*.tflite

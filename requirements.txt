@@ -1,0 +1,7 @@
+ultralytics>=8.3.78   # 內建 YOLOv12 (yolo12n/s/m/l/x)
+roboflow>=1.1.50
+kagglehub>=0.3.0
+pyyaml
+pillow
+onnx
+onnxruntime
